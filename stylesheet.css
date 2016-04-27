@@ -1,0 +1,17 @@
+.wrapper{
+	max-width: 960px;
+	margin: auto;
+	outline: solid 2px black;
+}
+
+.box{
+	/*display: inline-block;*/
+	float: left;
+	background-color: #b3b3b3;
+	border-radius:3px;
+
+}
+
+.boxSelect{
+	background-color: #f2f2f2;
+}
